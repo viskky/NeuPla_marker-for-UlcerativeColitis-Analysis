@@ -7,4 +7,4 @@ Data source: [Download link](http://www.plosone.org/article/fetchSingleRepresent
 
 Find codes for data analysis [here](https://github.com/viskky/NeuPla_marker-for-UlcerativeColitis-Analysis)
 
-All codes are available on request [here]((https://www.upwork.com/freelancers/~01353f588f94932a8e)https://www.upwork.com/freelancers/~01353f588f94932a8e)
+All codes are available on request [here](https://www.upwork.com/freelancers/~01353f588f94932a8e)
