@@ -1,11 +1,11 @@
-#Figure 2A
+
 stripchart(df$NeuPla~df$TRUELOVE,data=df,vertical = T, method="jitter",pch=20,col=c(1),ylab="NeuPla Ratio",xlab='Truelove-Witts score')
 m=tapply(df$NeuPla,df$TRUELOVE,mean)
 x=1:4
 segments(x-0.2,m,x+0.2,m,lwd=2)
 
 
-#Figure 3A
+
 Group=factor(df$Clinical_Activity,levels=c("REMISION","ACTIVA")) #The level to indicate the case and control
 library(pROC)
 roc1=roc(Group, df$Fecal_calprotectin)
